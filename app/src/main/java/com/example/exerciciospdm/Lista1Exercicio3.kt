@@ -18,7 +18,7 @@ class Lista1Exercicio3 : AppCompatActivity() {
 
         buttonConfirmar.setOnClickListener {
                 val msg = """Nome: ${editNome.text}
-                |Email : ${editEmail.text}
+                |Email : ${editTel.text}
                 |Tipo de Email: ${spinTipoEmail.selectedItem}
                 |App : ${editApp.text}
                 |Tipo de App: ${spinTipoApp.selectedItem}

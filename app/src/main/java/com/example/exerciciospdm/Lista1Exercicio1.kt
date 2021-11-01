@@ -14,7 +14,7 @@ class Lista1Exercicio1 : AppCompatActivity() {
         setContentView(R.layout.activity_lista1_exercicio1)
 
         val editNome2 = findViewById<EditText>(R.id.editNome2)
-        val editTel = findViewById<EditText>(R.id.editEmail)
+        val editTel = findViewById<EditText>(R.id.editTel)
         val editEmail = findViewById<EditText>(R.id.editEmail)
         val editWhats = findViewById<EditText>(R.id.editWhats)
 
